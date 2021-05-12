@@ -4,7 +4,7 @@
 
 Para correr la aplicación debera ejecutar los siguientes comandos en una consola desde el directorio Automotive-Management
 
-    > *Nota: agregar YOUR_API_KEY en automotive-management/src/Firebase.js* 
+> *Nota: agregar YOUR_API_KEY en automotive-management/src/Firebase.js* 
     
     # Muevase al directorio automotive-management
     $ cd automotive-management/
